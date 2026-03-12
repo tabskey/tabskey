@@ -32,6 +32,7 @@ Focused on **.NET • TypeScript • Architecture**
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Clojure](https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white)
 
 ✧･ﾟ: *✧･ﾟ:* ✦ *:･ﾟ✧*:･ﾟ✧ ✦ *:･ﾟ✧*:･ﾟ✧
 
@@ -39,19 +40,23 @@ Focused on **.NET • TypeScript • Architecture**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ✧･ﾟ: *✧･ﾟ:* ✦ *:･ﾟ✧*:･ﾟ✧ ✦ *:･ﾟ✧*:･ﾟ✧
 
 ### Database
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Datomic](https://img.shields.io/badge/Datomic-2E3440?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ✧･ﾟ: *✧･ﾟ:* ✦ *:･ﾟ✧*:･ﾟ✧ ✦ *:･ﾟ✧*:･ﾟ✧
 
 ### DevOps / Tools
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
