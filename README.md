@@ -18,6 +18,9 @@ Focused on **.NET • TypeScript • Architecture**
 - 🧠 Interested in **Architecture, Clean Code and Distributed Systems**
 - 🇯🇵 Japanese learner *(日本語勉強中)* (◕ㅅ◕✿)
 
+## 🌏 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tabathamacedo/)
 
 <div align="center">
 ✧･ﾟ: *✧･ﾟ:* ✦ *:･ﾟ✧*:･ﾟ✧ ✦ *:･ﾟ✧*:･ﾟ✧
@@ -70,13 +73,7 @@ Focused on **.NET • TypeScript • Architecture**
 
 ![snake gif](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
 
----
-
-# 🌏 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tabathamacedo/)
-
----
+.。･:*:･(✿◕3◕)❤(◕ε◕✿)･:*:･。.
 
 <div align="center">
 
