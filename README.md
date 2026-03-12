@@ -3,25 +3,26 @@
 </p>
 <div align="center">
 
-# こんにちは 👋
+#  (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ こんにちは! 
 
 ### Software Developer
 
 Building scalable APIs and web applications  
 Focused on **.NET • TypeScript • Architecture**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F78FB3&size=22&center=true&vCenter=true&width=600&lines=.NET+Developer;TypeScript+Lover;Backend+Architecture;Clean+Code+Advocate;日本語+勉強中)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F78FB3&size=22&center=true&vCenter=true&width=600&lines=.NET+Developer;TypeScript+Lover;Backend+Architecture;Clean+Code+Advocate;日本語勉強中;%EF%BC%88%E2%9C%BF%20%CD%A1%E2%97%95%20%E1%B4%97%20%E2%97%95%29%E3%81%A4%E2%94%81%E2%94%81%E2%9C%AB%E3%83%BB*%E3%80%82)](https://git.io/typing-svg)
 </div>
 
 - 💻 Software Developer focused on **Backend and APIs**
 - ⚙️ Experience with **.NET, TypeScript and modern frontend frameworks**
 - 🧠 Interested in **Architecture, Clean Code and Distributed Systems**
-- 🇯🇵 Japanese learner *(日本語勉強中)*
+- 🇯🇵 Japanese learner *(日本語勉強中)* (◕ㅅ◕✿)
 
----
 
-# 🚀 Tech Stack
+<div align="center">
+✧･ﾟ: *✧･ﾟ:* ✦ *:･ﾟ✧*:･ﾟ✧ ✦ *:･ﾟ✧*:･ﾟ✧
+  
+# 🚀 Tech Stack (´• ω •`) ♡
 
 ### Backend
 
@@ -29,21 +30,21 @@ Focused on **.NET • TypeScript • Architecture**
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
----
+✧･ﾟ: *✧･ﾟ:* ✦ *:･ﾟ✧*:･ﾟ✧ ✦ *:･ﾟ✧*:･ﾟ✧
 
 ### Frontend
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
----
+✧･ﾟ: *✧･ﾟ:* ✦ *:･ﾟ✧*:･ﾟ✧ ✦ *:･ﾟ✧*:･ﾟ✧
 
 ### Database
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+✧･ﾟ: *✧･ﾟ:* ✦ *:･ﾟ✧*:･ﾟ✧ ✦ *:･ﾟ✧*:･ﾟ✧
 
 ### DevOps / Tools
 
@@ -51,13 +52,13 @@ Focused on **.NET • TypeScript • Architecture**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+✧･ﾟ: *✧･ﾟ:* ✦ *:･ﾟ✧*:･ﾟ✧ ✦ *:･ﾟ✧*:･ﾟ✧
 
 # 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tabskey&show_icons=true&theme=tokyonight&hide_border=true)
 
----
+✧･ﾟ: *✧･ﾟ:* ✦ *:･ﾟ✧*:･ﾟ✧ ✦ *:･ﾟ✧*:･ﾟ✧
 
 # 📈 Most Used Languages
 
